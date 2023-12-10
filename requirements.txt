@@ -1,0 +1,6 @@
+moderngl
+moderngl-window
+numpy
+watchdog
+psutil
+moderngl-window[glfw]
